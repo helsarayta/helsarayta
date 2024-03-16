@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **helsarayta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SQUIkHGtnduZkyZA1HC8tyF509lfh3ay/view?usp=sharing](https://drive.google.com/file/d/1SQUIkHGtnduZkyZA1HC8tyF509lfh3ay/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/heydie-zuliansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heydie-zuliansyah" height="30" width="40" /></a>
