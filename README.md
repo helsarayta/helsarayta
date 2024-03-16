@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heydie Zuliansyah</h1>
 <h3 align="center">I am a skilled Java Backend Developer.</h3>
 <h3 align="center">I have completed various projects that involve developing and implementing software solutions based on this technology stack. I have a strong background in database design and management, with advanced knowledge in SQL and NoSQL I am adept in building scalable and maintainable backend systems with high performance and resilience. I possess excellent problem-solving skills, and I am well-versed in RESTful web services. I am also knowledgeable in developing full-stack web applications and proficient in HTML, CSS, and javascript frameworks.</h3>
-<img align="right" width="400" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/g06HKnMmtK1aXurndU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KeepCoding-developer-programmer-home-work-g06HKnMmtK1aXurndU">via GIPHY</a></p>
 
 - 📫 How to reach me **helsarayta@gmail.com**
 
