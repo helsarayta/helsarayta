@@ -6,11 +6,10 @@
   <br/><br/><br/>
 </div>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Heydie+Zuliansyah!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Heydie+Zuliansyah!;+Software+Enggineer" />
 </h1>
 
-<h2 align="center">Software Enggineer</h2>
-<h3 align="center">I am a skilled Java Backend Developer. I have completed various projects that involve developing and implementing software solutions based on this technology stack. I have a strong background in database design and management, with advanced knowledge in SQL and NoSQL I am adept in building scalable and maintainable backend systems with high performance and resilience. I possess excellent problem-solving skills, and I am well-versed in RESTful web services. I am also knowledgeable in developing full-stack web applications and proficient in HTML, CSS, and javascript frameworks.</h3>
+<h3 align="center">FullStack Developer and Java Software Engineer. Passionate about code, Tech enthusiasm</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400">
 
 <h3 align="left">Connect with me:</h3>
