@@ -1,7 +1,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![github contribution grid snake animation](https://raw.githubusercontent.com/helsarayta/helsarayta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/helsarayta/helsarayta/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
 </div>
